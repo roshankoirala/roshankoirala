@@ -1,12 +1,12 @@
-# 👋
+# 🙏 :technologist:
 
-# ⚡ The Earth is not flat but the Universe might be! 
+#### ⚡ The Earth is not flat but the Universe might be! 
 
-<!-- - 🔭 I’m currently working on ... churn prediction model 
-<!-- - 🌱 I’m currently learning ... Azure ML. 
-<!-- - 👯 I’m looking to collaborate on ... ?
-<!-- - 🤔 I’m looking for help with ... ? -->
-- 💬 Ask me about ... physics 
-- 📫 How to reach me: ... roshankoirala77@gmail.com
-<!-- - 😄 Pronouns: ... he/him/his  -->
+📧 roshankoirala77@gmail.com
+
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}]
+
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
