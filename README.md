@@ -1,7 +1,5 @@
 ### Hello World! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... churn prediction model 
 - 🌱 I’m currently learning ... Azure ML. 
 - 👯 I’m looking to collaborate on ... ?
