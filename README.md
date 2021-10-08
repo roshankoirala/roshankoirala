@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... roshankoirala77@gmail.com
 - 😄 Pronouns: ... he/him/his 
 - ⚡ Fun fact: ... the earth is not flat but the universe might be 
--->
