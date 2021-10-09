@@ -4,5 +4,7 @@
 
 $ E = m c ^ 2 $
 
+[E = m c^2]
+
 📧 roshankoirala77@gmail.com
 
